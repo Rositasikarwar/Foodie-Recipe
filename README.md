@@ -2,6 +2,9 @@
 
 **Foodie Recipes App** is a delightful application designed to inspire your culinary adventures by fetching a wide range of recipes. Developed with React.js, this app offers a user-friendly experience, enabling users to search for recipes, explore detailed instructions, and discover new dishes.
 
+![Cream Illustrative Healthy Food Recipes YouTube Intro Video](https://github.com/user-attachments/assets/21026127-33a2-4aa6-9f05-eab22ccf70a0)
+
+
 ## Features 🌟
 
 - **Recipe Search** 🔍: Easily find recipes by ingredients, cuisine, or dish type.
@@ -73,12 +76,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For inquiries or support, please contact [yourname@example.com](mailto:yourname@example.com).
+For inquiries or support, please contact [roshitasikarwar@gmailcom](mailto:roshitasikarwar@gmailcom).
 
 ---
 
 Thank you for exploring Foodie Recipes App! We hope it adds flavor and fun to your cooking journey. 🍽️🍲
-
----
-
-Feel free to customize this README to better suit your specific project details or add additional sections as needed!
